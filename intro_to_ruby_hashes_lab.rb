@@ -29,4 +29,5 @@ end
 
 # TEST CODE 
 
-actor
+actor_hash = actor
+puts actor_hash[:name]
